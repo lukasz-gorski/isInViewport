@@ -1,0 +1,23 @@
+{
+  "name": "@roghz/isinviewport",
+  "version": "1.0.0",
+  "description": "isInViewport check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:lukasz-gorski/isInViewport.git"
+  },
+  "keywords": [
+    "viewport",
+    "isinviewport"
+  ],
+  "author": "Łukasz Górski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasz-gorski/isInViewport/issues"
+  },
+  "homepage": "https://github.com/lukasz-gorski/isInViewport#readme"
+}
